@@ -1,0 +1,1 @@
+# Futuro arquivo para lógica e regras do jogo de cartas
